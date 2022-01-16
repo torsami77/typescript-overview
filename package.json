@@ -1,0 +1,23 @@
+{
+  "name": "typescript-overview",
+  "version": "1.0.0",
+  "description": "typescript-overview",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torsami77/typescript-overview.git"
+  },
+  "author": "Samson Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torsami77/typescript-overview/issues"
+  },
+  "homepage": "https://github.com/torsami77/typescript-overview#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
